@@ -1,0 +1,9 @@
+hotel,arrival_season,bookings,average_adr,median_adr,booking_index,price_index,demand_level,pricing_level,recommended_action
+City Hotel,Winter,10953,91.98358440609879,87.0,0.8371293182512993,0.8331437877086258,Normal Demand,Lower Price,Maintain Current Pricing
+City Hotel,Spring,15269,124.85590739406642,119.25,1.166997859981657,1.130885736577068,Normal Demand,Normal Price,Maintain Current Pricing
+City Hotel,Summer,16252,123.97502276642875,118.8,1.2421277896667686,1.122907100389504,High Demand,Normal Price,Consider Increasing Price
+City Hotel,Autumn,9862,100.80713952545123,94.0,0.7537450321002751,0.913063375324802,Low Demand,Normal Price,Maintain Current Pricing
+Resort Hotel,Winter,6939,55.351676034010666,50.0,0.8346665062849582,0.600893721196106,Normal Demand,Lower Price,Maintain Current Pricing
+Resort Hotel,Spring,8376,92.07912249283667,83.38,1.0075178925843506,0.999604176849053,Normal Demand,Normal Price,Maintain Current Pricing
+Resort Hotel,Summer,11285,159.10191758972087,154.71,1.3574306850303723,1.727198707608788,High Demand,Higher Price,Maintain Current Pricing
+Resort Hotel,Autumn,6654,61.9296197775774,55.0,0.8003849161003188,0.672303394346053,Normal Demand,Lower Price,Maintain Current Pricing
